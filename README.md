@@ -90,7 +90,7 @@ Esta API sigue la arquitectura en N capas. A continuación, se detallan las tecn
 | :-------- | :------- | :------------------------- |
 | `token` | `string` | **Requerido via headers** |
 
-#### Cerrar sesión
+#### Eliminar libro del carrito
 
 ```http
   DELETE /removeCart/:cartId
